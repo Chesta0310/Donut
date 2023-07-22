@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/schedule_of_events"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        tools:ignore="VisualLintLongText">
+
+    </TextView>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="696dp"
+            android:layout_below="@+id/sl_ogon"
+            android:layout_marginTop="30dp"
+
+            android:gravity="left"
+            android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Friday, June 2nd: 12 to 5pm "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="VisualLintLongText">
+
+    </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="11:00am – 12:00pm: Opening Ceremonies and Flag Raising (Main Stage)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="12:00pm – 5:00pm: Electric Vehicle test drives (beside parking lot A), Smart Adventures Mini Bike Rides (Kidzone field), Pfaff Autocross Track (Lot E/H)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2:00 pm – 2:30pm: Red Barn Dog Show (Kidzone field) "
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3:30 pm – 4:15pm: Electric Cars are NOW – Everything you want to know! (Main Stage) "
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4:00 pm – 4:30pm: Red Barn Dog Show (Kidzone field) "
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="5:00pm –  Gates Close  "
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Saturday, June 3rd: 10am to 6pm "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="VisualLintLongText">
+
+    </TextView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="10:00am – 6:00pm: Electric Vehicle test drives (beside parking lot A), Smart Adventures Mini Bike Rides (Kidzone field), Pfaff Autocross Track (Lot E/H)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="11:00am – 12:15pm: Red Barn Event Centre Canine Performance (Kidzonefield), Electric Cars are NOW – Everything you want to know! (Main Stage"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1:00pm – 3:00pm: Silent Auction (Main Stage, Electric Avenue), Red Barn Event Centre Canine Performance (Kidzone field), Automotive Fire Extraction Demo (Kidzone field)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3:30pm – 4:00pm: Show N' Shine Awards Tuner Division (parking lot A)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4:00pm – 4:30pm: Red Barn Event Centre Canine Performance (Kidzone field)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6:00pm – Gates Close"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sunday, June 4th: 10am to 5pm "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="VisualLintLongText">
+
+    </TextView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="10:00am – 5:00pm: Smart Adventures Mini Bike Rides (Kidzone Field), Pfaff Autocross Track (Lot E/H), Electric Vehicle test drives (beside parking lot A)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="11:00am – 12:15am: Red Barn Event Centre Canine Performance (Kidzone field),  Electric Cars are NOW – Everything you want to know! (Main Stage)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1:30 pm – 2:00pm: Red Barn Event Centre Canine Performance (Kidzone field)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2:00 pm – 2:30pm: Automotive Fire Extraction Demo (Kidzone field)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2:30pm – 3:15pm: Electric Cars are NOW – Everything you want to know! (Main Stage)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:text="3:30pm – 4:00pm: Show N' Shine Awards Muscles and Classics(parking lot A)"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                tools:ignore="VisualLintLongText">
+
+            </TextView>
+
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

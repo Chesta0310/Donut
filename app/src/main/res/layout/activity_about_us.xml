@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/browser_actions_bg_grey"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:text="About us"
+        android:textAlignment="center"
+        android:textColor="#070707"
+        android:textSize="40dp"
+        android:textStyle="italic">
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="Donut is an Auto Show Company. it started in 2019 in Barrie, Ontario. We deal in new and used cars.Auto car showrooms are a key component of the car sales industry, providing a space where customers can see and experience the latest models, learn about their features and benefits, and make informed decisions about which cars to purchase."
+        >
+
+
+    </TextView>
+    <Button
+        android:id="@+id/directors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Directors"
+
+        >
+
+    </Button>
+</LinearLayout>

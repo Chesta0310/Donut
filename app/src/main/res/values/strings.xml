@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Donut</string>
+    <string name="Directors">Auto Show Student Directors                                                                    Jack Sills Director of Student Experience                                                                Grace Stein Director of Media and Marketing Relations                                                             Brendan Currie Director of Sponsorship and Performance                                                          Jason Wu Director of Site Management and Logistics                                                              Harrison Reid Director of Customer Experience.</string>
+    <string name="schedule_of_events">Schedule of Events</string>
+    <string name="date_and_time_march_24_friday_june_2_2023_11_00_am">Date and Time : March 24 Friday - June 2, 2023 11:00 AM</string>
+    <string name="date_and_time_saturday_june_3_2023_10_am">Date and Time : Saturday June 3, 2023 10 AM</string>
+    <string name="gate_and_tents_open_kinsmen_confirmed_food_vendors_open_grizzly_way_plug_n_drive_test_drives_begin_charging_stations_kidzone_opens_field_in_front_of_n_building_residence_show_n_shine_tuning_division_f_lot_11_a_m_pfaff_track_and_simulators_open_h_lot_n_building_red_barn_dog_show_kidzone_3_p_m_pfaff_track_closes_3_30_p_m_show_n_shine_trophy_ceremony_main_stage_4_p_m_red_barn_dog_show_5_p_m_kidzone_closes_6_p_m"><![CDATA[Gate and Tents open – Kinsmen Confirmed Food Vendors open – Grizzly Way Plug N Drive test drives begin – Charging stations KidZone opens - Field in front of N Building/Residence Show N Shine – Tuning Division (F Lot) 11 a.m. Pfaff Track and Simulators open – H Lot & N Building Red Barn Dog Show - KidZone 3 p.m. Pfaff Track Closes 3:30 p.m. Show N Shine Trophy Ceremony – Main Stage 4 p.m. Red Barn Dog Show 5 p.m. KidZone closes 6 p.m.]]></string>
+    <string name="date_and_time_saturday_june_4_2023_10_am">Date and Time : Saturday June 4, 2023 10 AM</string>
+    <string name="gate_and_tents_open_kinsmen_confirmed_food_vendors_open_grizzly_way_plug_n_drive_test_drives_begin_charging_stations_kidzone_opens_field_in_front_of_n_building_residence_show_n_shine_classics_division_f_lot_11_a_m_pfaff_track_and_simulators_open_h_lot_n_building_red_barn_dog_show_kidzone_3_p_m_pfaff_track_closes_3_30_p_m_show_n_shine_trophy_ceremony_main_stage_4_p_m_red_barn_dog_show_kidzone_5_p_m_kidzone_close_6_p_m"><![CDATA[Gate and Tents open – Kinsmen Confirmed Food Vendors open – Grizzly Way Plug N Drive test drives begin – Charging stations KidZone opens - Field in front of N Building/Residence Show N Shine – Classics Division (F Lot) 11 a.m. Pfaff Track and Simulators open – H Lot & N Building Red Barn Dog Show - KidZone 3 p.m. Pfaff Track Closes 3:30 p.m. Show N Shine Trophy Ceremony – Main Stage 4 p.m. Red Barn Dog Show - KidZone 5 p.m. KidZone close 6 p.m.]]></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="login">Login</string>
+    <string name="Map">Maps</string>
+        <string name="maps">...</string>
+
+
+</resources>
